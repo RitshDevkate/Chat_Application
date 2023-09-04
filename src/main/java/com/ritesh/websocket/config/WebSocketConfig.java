@@ -1,4 +1,4 @@
-package com.alibou.websocket.config;
+package com.ritesh.websocket.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
