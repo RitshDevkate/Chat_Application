@@ -1,3 +1,8 @@
-# Spring boot chat application
-"# Chat_Application" 
-"# Chat_Application" 
+# Chat application using Websocket "
+
+
+![Websocket_SS](https://github.com/RitshDevkate/Chat_Application/assets/92538823/f23363a8-23f0-4320-809a-e83b05a23da9)
+
+
+
+
